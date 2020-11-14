@@ -22,7 +22,6 @@ request.onerror = function(event) {
 };
 
 function saveRecord(record) {
-    console.log('[saveRecord] function reached ...')
   // create a transaction on the pending db with readwrite access
   const transaction = db.transaction(["pending"], "readwrite");
 
