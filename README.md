@@ -19,7 +19,7 @@ npm i express logger mongoose compression
 
 The following image is an example of the application's appearance and functionality
 
-[!Image](./budget-tracker-screenshot.png)
+![Image](./budget-tracker-screenshot.png)
 
 ## URL
 
